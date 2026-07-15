@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-q0f1no.comeagua.com.br/sitemap.xml
